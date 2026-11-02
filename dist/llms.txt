@@ -5,39 +5,39 @@
 Contact: connect@sarvlekh.in
 
 ## Key pages
-- [Home](https://sarvlekh.in/): overview
-- [Industries](https://sarvlekh.in/industries/): all industries served
-- [Services](https://sarvlekh.in/services/): software, accounting, optimisation
-- [Our story, mission & vision](https://sarvlekh.in/about/)
-- [FAQ](https://sarvlekh.in/faq/)
-- [Contact](https://sarvlekh.in/contact/)
+- [Home](https://www.sarvlekh.in/): overview
+- [Industries](https://www.sarvlekh.in/industries/): all industries served
+- [Services](https://www.sarvlekh.in/services/): software, accounting, optimisation
+- [Our story, mission & vision](https://www.sarvlekh.in/about/)
+- [FAQ](https://www.sarvlekh.in/faq/)
+- [Contact](https://www.sarvlekh.in/contact/)
 
 ## Industry pages
-- [Hostel](https://sarvlekh.in/industries/hostel/): Sarvlekh builds hostel management systems: room allocation, rent and mess billing, gate pass, complaints, attendance and parent alerts — in one connected app.
-- [PG & Co-living](https://sarvlekh.in/industries/pg/): PG and co-living management software by Sarvlekh: tenant onboarding, KYC, rent collection, electricity split, food menu, complaints and owner analytics.
-- [Doctor & Clinic](https://sarvlekh.in/industries/clinic/): Sarvlekh clinic software: appointments, queue, e-prescription, patient records, lab and pharmacy billing, follow-up reminders and doctor dashboards.
-- [Mess & Canteen](https://sarvlekh.in/industries/mess/): Sarvlekh mess management: meal plans, attendance, coupon and QR billing, kitchen stock, wastage control and monthly statements for hostels, offices and institutions.
-- [Laundry & Dry Clean](https://sarvlekh.in/industries/laundry/): Sarvlekh laundry software: barcode garment tagging, pickup and delivery routes, per-piece and per-kg pricing, hostel bulk laundry, billing and customer alerts.
-- [School](https://sarvlekh.in/industries/school/): Sarvlekh school ERP: admissions, fees, attendance, timetable, exams and report cards, transport, library, parent app and management dashboards.
-- [Coaching Institute](https://sarvlekh.in/industries/coaching/): Coaching class software by Sarvlekh: batch scheduling, student CRM, fee installments, online tests, performance analytics, faculty payroll and parent app.
-- [Media House](https://sarvlekh.in/industries/media-house/): Sarvlekh media workflow system: content calendar, assignments, asset library, approvals, ad and client billing, freelancer payments and team productivity.
-- [Finance & Lending](https://sarvlekh.in/industries/finance/): Sarvlekh finance software: loan origination, EMI schedules, collections app, ledgers, KYC, reconciliation and MIS dashboards for NBFCs, chit funds and lenders.
-- [Tally & Accounting](https://sarvlekh.in/industries/tally-accounting/): Sarvlekh accounting services: Tally integration, GST filing support, bookkeeping, bank reconciliation, payroll, TDS and automated reports for growing Indian businesses.
-- [RMC Plant](https://sarvlekh.in/industries/rmc/): Sarvlekh RMC software: concrete orders, mix designs, batching records, transit-mixer dispatch, weighbridge, quality tests, GST billing and customer ledgers.
-- [Manufacturing Plant](https://sarvlekh.in/industries/manufacturing/): Sarvlekh manufacturing ERP: BOM, production planning, shop-floor tracking, inventory, quality, maintenance, costing and dispatch for MSME and mid-size plants.
-- [Retail Outlet](https://sarvlekh.in/industries/retail-outlet/): Sarvlekh retail software: POS billing, barcode inventory, multi-store stock, loyalty, offers, GST invoices, supplier orders and sales analytics.
-- [Wholesale Store](https://sarvlekh.in/industries/wholesale/): Sarvlekh wholesale software: salesman order app, party ledgers, credit limits, batch stock, scheme management, delivery routes, GST billing and collections.
-- [Gym & Fitness](https://sarvlekh.in/industries/gym/): Sarvlekh gym software: memberships, biometric/QR attendance, auto-renewal, trainer scheduling, diet and workout plans, POS and retention analytics.
-- [Restaurant](https://sarvlekh.in/industries/restaurant/): Sarvlekh restaurant software: POS, KOT and kitchen display, table management, online order aggregation, recipe inventory, staff and GST reporting.
-- [Showroom](https://sarvlekh.in/industries/showroom/): Sarvlekh showroom software: lead CRM, test drives, quotations, finance and insurance, inventory, delivery, service jobcards and spare parts for dealerships.
-- [Hotel](https://sarvlekh.in/industries/hotel/): Sarvlekh hotel software: property management, channel-ready bookings, front desk, housekeeping, F&B billing, laundry, night audit and revenue dashboards.
-- [Weighbridge](https://sarvlekh.in/industries/weighbridge/): Sarvlekh weighbridge software: automatic weight capture, vehicle and party records, weighment slips, camera proof, billing and fraud-proof reports for yards and plants.
-- [Mines & Quarries](https://sarvlekh.in/industries/mines/): Sarvlekh mining software: production logs, dispatch and weighbridge, royalty and permit tracking, fleet and fuel, stock yards, workforce and compliance reports.
+- [Hostel](https://www.sarvlekh.in/industries/hostel/): Sarvlekh builds hostel management systems: room allocation, rent and mess billing, gate pass, complaints, attendance and parent alerts — in one connected app.
+- [PG & Co-living](https://www.sarvlekh.in/industries/pg/): PG and co-living management software by Sarvlekh: tenant onboarding, KYC, rent collection, electricity split, food menu, complaints and owner analytics.
+- [Doctor & Clinic](https://www.sarvlekh.in/industries/clinic/): Sarvlekh clinic software: appointments, queue, e-prescription, patient records, lab and pharmacy billing, follow-up reminders and doctor dashboards.
+- [Mess & Canteen](https://www.sarvlekh.in/industries/mess/): Sarvlekh mess management: meal plans, attendance, coupon and QR billing, kitchen stock, wastage control and monthly statements for hostels, offices and institutions.
+- [Laundry & Dry Clean](https://www.sarvlekh.in/industries/laundry/): Sarvlekh laundry software: barcode garment tagging, pickup and delivery routes, per-piece and per-kg pricing, hostel bulk laundry, billing and customer alerts.
+- [School](https://www.sarvlekh.in/industries/school/): Sarvlekh school ERP: admissions, fees, attendance, timetable, exams and report cards, transport, library, parent app and management dashboards.
+- [Coaching Institute](https://www.sarvlekh.in/industries/coaching/): Coaching class software by Sarvlekh: batch scheduling, student CRM, fee installments, online tests, performance analytics, faculty payroll and parent app.
+- [Media House](https://www.sarvlekh.in/industries/media-house/): Sarvlekh media workflow system: content calendar, assignments, asset library, approvals, ad and client billing, freelancer payments and team productivity.
+- [Finance & Lending](https://www.sarvlekh.in/industries/finance/): Sarvlekh finance software: loan origination, EMI schedules, collections app, ledgers, KYC, reconciliation and MIS dashboards for NBFCs, chit funds and lenders.
+- [Tally & Accounting](https://www.sarvlekh.in/industries/tally-accounting/): Sarvlekh accounting services: Tally integration, GST filing support, bookkeeping, bank reconciliation, payroll, TDS and automated reports for growing Indian businesses.
+- [RMC Plant](https://www.sarvlekh.in/industries/rmc/): Sarvlekh RMC software: concrete orders, mix designs, batching records, transit-mixer dispatch, weighbridge, quality tests, GST billing and customer ledgers.
+- [Manufacturing Plant](https://www.sarvlekh.in/industries/manufacturing/): Sarvlekh manufacturing ERP: BOM, production planning, shop-floor tracking, inventory, quality, maintenance, costing and dispatch for MSME and mid-size plants.
+- [Retail Outlet](https://www.sarvlekh.in/industries/retail-outlet/): Sarvlekh retail software: POS billing, barcode inventory, multi-store stock, loyalty, offers, GST invoices, supplier orders and sales analytics.
+- [Wholesale Store](https://www.sarvlekh.in/industries/wholesale/): Sarvlekh wholesale software: salesman order app, party ledgers, credit limits, batch stock, scheme management, delivery routes, GST billing and collections.
+- [Gym & Fitness](https://www.sarvlekh.in/industries/gym/): Sarvlekh gym software: memberships, biometric/QR attendance, auto-renewal, trainer scheduling, diet and workout plans, POS and retention analytics.
+- [Restaurant](https://www.sarvlekh.in/industries/restaurant/): Sarvlekh restaurant software: POS, KOT and kitchen display, table management, online order aggregation, recipe inventory, staff and GST reporting.
+- [Showroom](https://www.sarvlekh.in/industries/showroom/): Sarvlekh showroom software: lead CRM, test drives, quotations, finance and insurance, inventory, delivery, service jobcards and spare parts for dealerships.
+- [Hotel](https://www.sarvlekh.in/industries/hotel/): Sarvlekh hotel software: property management, channel-ready bookings, front desk, housekeeping, F&B billing, laundry, night audit and revenue dashboards.
+- [Weighbridge](https://www.sarvlekh.in/industries/weighbridge/): Sarvlekh weighbridge software: automatic weight capture, vehicle and party records, weighment slips, camera proof, billing and fraud-proof reports for yards and plants.
+- [Mines & Quarries](https://www.sarvlekh.in/industries/mines/): Sarvlekh mining software: production logs, dispatch and weighbridge, royalty and permit tracking, fleet and fuel, stock yards, workforce and compliance reports.
 
 ## Services
-- [Custom Business Software](https://sarvlekh.in/services/business-software/): Sarvlekh designs custom ERP, mobile apps, dashboards and integrations (Tally, GST, UPI, WhatsApp, biometrics) for hostels, clinics, plants, stores and more.
-- [Accounting & Compliance](https://sarvlekh.in/services/accounting/): Sarvlekh offers bookkeeping, Tally accounting, GST return preparation, TDS, payroll, bank reconciliation and MIS — connected to your operations software.
-- [Business Optimisation](https://sarvlekh.in/services/business-optimisation/): Sarvlekh maps your workflows, removes repetitive work and automates approvals, reminders and reports — saving labour hours and cutting leakage.
+- [Custom Business Software](https://www.sarvlekh.in/services/business-software/): Sarvlekh designs custom ERP, mobile apps, dashboards and integrations (Tally, GST, UPI, WhatsApp, biometrics) for hostels, clinics, plants, stores and more.
+- [Accounting & Compliance](https://www.sarvlekh.in/services/accounting/): Sarvlekh offers bookkeeping, Tally accounting, GST return preparation, TDS, payroll, bank reconciliation and MIS — connected to your operations software.
+- [Business Optimisation](https://www.sarvlekh.in/services/business-optimisation/): Sarvlekh maps your workflows, removes repetitive work and automates approvals, reminders and reports — saving labour hours and cutting leakage.
 
 ## Quick answers
 **What is Sarvlekh?** Sarvlekh is a premium business systems studio. We design the software, accounting and operating systems that run hostels, clinics, schools, plants, stores, hotels and 20+ other kinds of business — all connected in one place.

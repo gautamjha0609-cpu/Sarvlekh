@@ -1,5 +1,5 @@
 export const SITE = {
-  url: 'https://sarvlekh.in',
+  url: 'https://www.sarvlekh.in',
   name: 'Sarvlekh',
   email: 'connect@sarvlekh.in',
   tagline: 'Business systems studio for every kind of business',

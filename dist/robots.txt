@@ -37,4 +37,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://sarvlekh.in/sitemap.xml
+Sitemap: https://www.sarvlekh.in/sitemap.xml
