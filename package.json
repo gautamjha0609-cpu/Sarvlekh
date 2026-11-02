@@ -1,0 +1,15 @@
+{
+  "name": "sarvlekh-website",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && node serve.mjs 5173",
+    "preview": "node build.mjs && node serve.mjs 4173"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.16.0",
+    "purgecss": "^8.0.0"
+  }
+}

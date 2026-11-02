@@ -1,0 +1,12 @@
+import puppeteer from 'puppeteer-core';
+import fs from 'node:fs';
+const img = (f) => 'data:image/png;base64,' + fs.readFileSync('assets/img/' + f).toString('base64');
+const mark = img('mark-light.png'), full = img('full-light.png');
+const b = await puppeteer.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe', headless: true });
+const shot = async (w, h, html, out) => { const p = await b.newPage(); await p.setViewport({ width: w, height: h }); await p.setContent(html); await new Promise((r) => setTimeout(r, 300)); await p.screenshot({ path: 'assets/img/' + out, omitBackground: false }); await p.close(); };
+const tile = (s, pad) => `<body style="margin:0;width:${s}px;height:${s}px;background:radial-gradient(circle at 50% 30%,#0f2a17,#06080a 70%);display:grid;place-items:center;border-radius:${s * 0.22}px;overflow:hidden"><img src="${mark}" style="width:${s - pad * 2}px"></body>`;
+await shot(64, 64, tile(64, 6), 'favicon-64.png');
+await shot(180, 180, tile(180, 20).replace('border-radius:39.6px', 'border-radius:0'), 'apple-touch-icon.png');
+await shot(512, 512, tile(512, 56), 'logo-512.png');
+await shot(1200, 630, `<body style="margin:0;width:1200px;height:630px;background:radial-gradient(ellipse at 75% 30%,#12391f,#06080a 65%);font-family:Georgia,serif;color:#f2f6f3;display:flex;align-items:center;padding:0 80px;box-sizing:border-box;gap:50px"><div style="flex:1"><div style="color:#2ee05a;letter-spacing:.3em;font:700 20px sans-serif">सर्वलेख · BUSINESS SYSTEMS STUDIO</div><div style="font-size:78px;font-weight:900;line-height:1.02;margin-top:22px">Every business.<br>One intelligent system.</div><div style="font:500 26px sans-serif;color:#9aa7a0;margin-top:26px">Software · Accounting · Automation — sarvlekh.in</div></div><img src="${mark}" style="width:430px"></body>`, 'og.png');
+await b.close();

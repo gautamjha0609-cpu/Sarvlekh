@@ -1,0 +1,18 @@
+/* contrast + a11y refinements (WCAG AA) */
+.chap span,.head-l p,.head-c p,.fq-h p,.bench p,.cls span,.fq-side p,.faq-2 .fq-h p,.ix-feat+*{color:#4a5568}
+.ba-before,.bc-b li{color:#59606e}
+.note a,.center a:not(.btn),.tiny a{color:color-mix(in srgb,var(--a) 72%,#000)}
+.cl-token{background:#0a666d}
+.fn-aging small,.fn-loan small,.gate small,.cl-vitals small,.cl-time p,.week small{color:#5a6272}
+.pg-ind .hdr .btn-line{background:#fff;color:#0d1526;border-color:#dcdfe5}
+.gz-card small,.gz-deskh span,.gz-kick b,.gz-aside h4,.gz-aside .gz-h{color:#6f5516}
+.gz-kick a,.gz-art a:not(.btn){text-decoration:underline;text-underline-offset:3px}
+.bed.b0,.bed.b1{background:#2f3fb0}.bed.b2{color:#2f3fb0}
+.hs-s em,.eco-n em{color:#0b0c0f}
+.gz-aside .gz-h{font-family:'Playfair Display',serif;font-weight:900;font-size:.8rem;letter-spacing:.2em;text-transform:uppercase}
+
+.ribbon span,.cl-token small,.cl-token em{color:#fff}.ribbon{background:color-mix(in srgb,var(--a) 82%,#000)}
+.notif time,.pcard small,.lead>small{color:#5a6272}.gz-card.lead small{color:#6f5516}
+.cls span,.chap span,.fq-h>p{color:#4a5568}
+.bc-b li{color:#4f5766}
+.rx-sign{color:#0a5a60}
